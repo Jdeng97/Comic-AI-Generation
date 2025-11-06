@@ -18,4 +18,7 @@ Once the backend is ready, we can replace the mock functions in ComicAIDemo.tsx 
 npm install
 ```
 
-###npm start
+### How to Start
+```bash
+npm start
+```
